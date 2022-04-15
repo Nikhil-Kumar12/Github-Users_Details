@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# View the deployed part on web
 
 Visit [http://nikhilbaghel.me/fyle-task/#/](http://nikhilbaghel.me/fyle-task/#/).
 
