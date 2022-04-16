@@ -1,6 +1,6 @@
 # View the deployed part on web
 
-Visit [http://nikhilbaghel.me/fyle-task/#/](http://nikhilbaghel.me/fyle-task/#/).
+Visit [http://nikhilbaghel.me/pettofit-task/](http://nikhilbaghel.me/pettofit-task/).
 
 ## Available Scripts
 
