@@ -26,3 +26,18 @@
     }
   }
 }
+
+.top-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .search-box {
+    input {
+      padding: 0.5rem 1rem;
+      font-size: 1.1rem;
+      border-radius: 7px;
+      border: none;
+      box-shadow: 0px 0px 4px #000;
+    }
+  }
+}

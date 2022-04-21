@@ -91,12 +91,18 @@ ul {
     color: #1b69d7;
     background-color: #fff;
     border: 1px solid #1b69d7;
-    padding: 5px 14px;
     cursor: pointer;
+    a {
+      display: inline-block;
+      padding: 7px 14px;
+    }
   }
 }
 .active {
   color: #fff;
   background-color: #1b69d7;
-  padding: 5px 14px;
+  a {
+    display: inline-block;
+    padding: 7px 14px;
+  }
 }
